@@ -1,0 +1,12 @@
+.appList{
+    width: 100%;
+}
+
+.appSingle, .name, .email, .address{
+    width: 100%
+}
+
+.appSingle{
+    border: 1px solid black;
+    padding: 5px
+}
